@@ -1,0 +1,12 @@
+ts
+
+------------------------------------
+to check log ->
+
+cd /var/log/aws/codedeploy-agent/
+ls
+more logfilename
+
+--------------------
+cd /opt/codedeploy-agent/deployment-root/"Random file"/deployment_Id
+
